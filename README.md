@@ -1,4 +1,4 @@
-## Working Style
+## Personal Workflow
 
 * **Focus Sessions** ⏳: I work in 25-50 minute long focus sessions, during which I try to avoid interruptions by closing my GMail browser tab, pausing my Slack notifications, and putting on noise-cancelling headphones. 
 * **Slack Status** 🎧: I signal to coworkers that I'm in a focus session by updating my Slack status (and including an end time for the focus session). 
